@@ -6,6 +6,7 @@
 // se foloseste namespace-ul std (a.i nu mai e nevoie sa se scrie std::cin, std::cout, etc.)
 using namespace std;
 
+// se declara functia programului
 int main() {
    // se declara sirul de caractere "sir"
    string sir;
