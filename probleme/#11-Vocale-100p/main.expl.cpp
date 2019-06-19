@@ -16,7 +16,7 @@ int main() {
    // se declara sirul de caractere "aeiou" sub numele de "vocale"
    string vocale = "aeiou";
 
-   // pentru i = 0 pana la marimea sirului (exclusiv), valoarea lui i crescand dupa fiecare iteratie
+   // pentru i = 0 pana la marimea sirului (exclusiv), valoarea lui i crescand dupa fiecare iteratie cu 1
    for (int i = 0; i < sir.length(); i++) {
       // daca litera este regasita in sirul de vocale (este vocala) atunci acea litera devine litera mare
       if (vocale.find(sir[i]) != -1) sir[i] = toupper(sir[i]);
