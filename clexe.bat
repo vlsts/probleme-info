@@ -1,0 +1,1 @@
+del probleme-pbinfo\*.exe
