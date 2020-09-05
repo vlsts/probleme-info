@@ -1,6 +1,6 @@
 /*
-Problem: Make a Circle with OOP
-Author: Alex Golubov
+    Problem: Make a Circle with OOP
+    Author: Alex Golubov
 */
 
 // Given
